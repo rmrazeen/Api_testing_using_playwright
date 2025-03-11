@@ -1,6 +1,6 @@
-# Playwright API Testing Framework
+# API Testing using Playwright Framework
 
-This repository contains a collection of API tests using Playwright Test. The tests are designed to validate the functionality of the Restful-Booker API (https://restful-booker.herokuapp.com).
+This repository contains a collection of API tests using Playwright. The tests are designed to validate the functionality of the Restful-Booker API (https://restful-booker.herokuapp.com).
 
 ## 📋 Overview
 
